@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    margin-top: 20px;
+}
+
+thead {
+    font-weight: bold;
+}
+
+th, td {
+    text-align: center;
+}
+
+.btn {
+    margin-right: 5px;
+}
